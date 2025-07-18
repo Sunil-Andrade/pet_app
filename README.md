@@ -38,9 +38,9 @@ PetConnect is a UI demonstration showcasing a clean and user-friendly design for
 
 1.  **Ensure you have the Flutter SDK installed.** You can find instructions on the [official Flutter website](https://flutter.dev/docs/get-started/install).
 2.  **Clone the repository:**
-    ```bash
+   
     git clone [`git clone https://github.com/Sunil-Andrade/pet_app.git`](https://github.com/Sunil-Andrade/pet_app.git)
-    ```
+   
 3.  **Navigate to the project directory:**
     ```bash
     cd petconnect
