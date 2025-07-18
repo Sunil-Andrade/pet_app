@@ -43,7 +43,7 @@ PetConnect is a UI demonstration showcasing a clean and user-friendly design for
    
 3.  **Navigate to the project directory:**
     ```bash
-    cd petconnect
+    pet app
     ```
 4.  **Get the dependencies:**
     ```bash
