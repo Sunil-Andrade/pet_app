@@ -8,7 +8,7 @@
 
 ## 🌟 Overview
 
-Every year, millions of wonderful pets wait in shelters for a loving family. At the same time, millions of people are looking for a new companion. PetConnect bridges this gap. Our app provides a user-friendly platform for shelters to list available pets and for potential adopters to find their perfect match. Our mission is to reduce the number of homeless pets and bring more joy into the world, one adoption at a time.
+PetConnect is a UI demonstration showcasing a clean and user-friendly design for a pet adoption platform. I did not design this interface; it is used here solely for demonstration purposes. The project focuses purely on layout and interface elements—there is no real adoption data or backend functionality included. It serves as a visual example of how a pet adoption app might look and feel.
 
 ---
 
